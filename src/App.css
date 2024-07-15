@@ -1,0 +1,14 @@
+.card{
+  margin: 60,!important;
+
+}
+
+.card:hover{
+  border: 3.5px solid ;
+  border-radius: 6px;
+  border-color: black !important
+}
+
+nav.navbar.navbar-expand.navbar-light.bg-dark{
+  background-color:burlywood !important
+}
